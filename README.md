@@ -22,7 +22,7 @@ Skills for Claude to generate SaaS product launch videos — no footage needed.
 ## Install
 
 ```bash
-npx skills add dhumi/claude-motion-skills
+npx skills add thevijaydeore/claude-motion-skills
 ```
 
 Or manually: clone this repo and copy the skill folders into `.claude/skills/`.
